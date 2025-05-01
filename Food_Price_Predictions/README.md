@@ -30,7 +30,7 @@ Several models were tested to find the best one for predicting food prices:
 
 ## Model Evaluation
 
-The models were evaluated using **train** and **test** scores. The **Decision Tree Regressor** gave the best performance with high accuracy and minimal overfitting, showing consistent results on both train and test data.
+The models were evaluated using **train** and **test** scores. The **Random Forest Regressor** gave the best performance with high accuracy and minimal overfitting, showing consistent results on both train and test data.
 
 ## Future Work
 
