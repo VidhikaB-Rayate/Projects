@@ -38,7 +38,7 @@ GridSearchCV was used to tune model hyperparameters and select the best combinat
 
 ---
 
-## 📌 Model Evaluation
+## Model Evaluation
 
 The models were evaluated using **train** and **test** scores. The **Random Forest Regressor** gave the best performance with high accuracy and minimal overfitting, showing consistent results on both train and test data.
 
@@ -46,7 +46,7 @@ After applying StandardScaler and PCA, the model successfully handled multicolli
 
 ---
 
-## 📌 How This Model Helps in Decision-Making
+## How This Model Helps in Decision-Making
 
 - **Forecasting Food Prices**: Predicts future commodity prices across different states, months, and years, helping identify trends in advance.  
 - **Market Planning**: Assists government bodies, traders, and retailers in procurement, stock management, and pricing decisions.  
