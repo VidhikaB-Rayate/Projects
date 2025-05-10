@@ -5,7 +5,7 @@ Welcome to my little corner of projects. I'm always excited to explore new thing
 ## Guided Project: Power BI  
 A hands-on project where I worked with data cleaning, transformations, and created an interactive dashboard to gain meaningful business insights.
 
-## Machine Learning Project  
+## Unguided Project: Machine Learning Project  
 Built a predictive ML model from scratch — from data collection, preprocessing to model tuning and evaluation. This project deepened my skills in handling real-world datasets and applying various algorithms.
 
 ---
